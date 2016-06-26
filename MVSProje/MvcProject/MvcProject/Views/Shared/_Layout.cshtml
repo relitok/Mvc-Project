@@ -1,0 +1,279 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/font/stylesheet.css" type="text/css" charset="utf-8" />
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/css/camera.css" />
+    <link type="text/css" rel="stylesheet" href="~/Content/css/camera_style.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3"></script>
+    <script type='text/javascript' src="~/Content/js/jquery.mobile.customized.min.js"></script>
+    <script type='text/javascript' src="~/Content/js/jquery.easing.1.3.js"></script>
+    <script type='text/javascript' src="~/Content/js/camera.min.js"></script>
+    <script src="~/Content/js/jquery.jcarousel.min.js" type="text/javascript"></script>
+    <!-- carousel -->
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.project-carousel').jcarousel({
+                scroll: ($(window).width() > 767 ? 4 : 1),
+                easing: 'easeInOutExpo',
+                animation: 600
+            });
+        });
+
+        // Reload carousels on window resize to scroll only 1 item if viewport is small
+        $(window).resize(function () {
+            var el = $(".project-carousel"), carousel = el.data('jcarousel'), win_width = $(window).width();
+            var visibleItems = (win_width > 767 ? 4 : 1);
+            carousel.options.visible = visibleItems;
+            carousel.options.scroll = visibleItems;
+            carousel.reload();
+        });
+    </script>
+
+
+</head>
+<body>
+    
+    <div id="tumu">
+
+        <!-- Header baslangic -->
+        <div id="header">
+            <div id="headeric">
+                <div id="headerSol">
+                    <a href="index.html">
+                        <img src="~/Content/images/logo1.jpg" alt="logo" style="
+    height: 104px;
+" /></a>
+                </div>
+
+                <div id="headerSag">
+                    <ul>
+                        <li><a href="http://www.facebook.com/">
+                            <img src="~/Content/images/ikonFacebook.png" alt="Facebook" title="Facebook" border="0" /></a></li>
+                        <li><a href="http://www.skype.com/">
+                            <img src="~/Content/images/ikonSkype.png" alt="Skype" title="Skype" border="0" /></a></li>
+                        <li><a href="http://www.twitter.com/">
+                            <img src="~/Content/images/ikonTwitter.png" alt="Twitter" title="Twitter" border="0" /></a></li>
+                        <li><a href="http://www.linkedin.com/">
+                            <img src="~/Content/images/ikonLinkedin.png" alt="Linkedin" title="Linkedin" border="0" /></a></li>
+                        <li><a href="https://plus.google.com/">
+                            <img src="~/Content/images/ikonGoogle.png" alt="Google" title="Google" border="0" /></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- menuSlayt baslangic -->
+        <div id="menuSlayt">
+            <div id="menuSlaytic">
+                <div id="menu">
+                    <ul id="menuic">
+
+                        <li><a href="#">ANASAYFA</a></li>
+
+                        <li>
+                            <span></span>
+                            <a href="#">KURUMSAL</a>
+                            <ul>
+                                <li><a href="#">Hakkımızda</a></li>
+                                <li><a href="#">Misyonumuz</a></li>
+                                <li><a href="#">Vizyonumuz</a></li>
+                            </ul>
+                            <span class="menuOk"></span>
+                        </li>
+
+                        <li>
+                            <span></span>
+                            <a href="#">ÜRÜNLER</a>
+                            <ul>
+                                <li><a href="#">Ürün Grubu 1</a></li>
+                                <li><a href="#">Ürün Grubu 2</a></li>
+                                <li><a href="#">Ürün Grubu 3</a></li>
+                            </ul>
+                            <span class="menuOk"></span>
+                        </li>
+
+                        <li>
+                            <span></span>
+                            <a href="#">REFERANSLAR</a>
+                            <ul>
+                                <li><a href="#">Web Tabanlı</a></li>
+                                <li><a href="#">Masaüstü Uygulaması</a></li>
+                                <li><a href="#">Mobil</a></li>
+                                <li><a href="#">Donanım Entegrasyonu</a></li>
+                            </ul>
+                            <span class="menuOk"></span>
+                        </li>
+
+                        <li>
+                            <span></span>
+                            <a href="#">TEKNİK ÇÖZÜMLER</a>
+                            <ul>
+                                <li><a href="#">Photoshop</a></li>
+                                <li><a href="#">Dreamweaver</a></li>
+                                <li><a href="#">HTML</a></li>
+                                <li><a href="#">CSS</a></li>
+                                <li><a href="#">Algoritma</a></li>
+                            </ul>
+                            <span class="menuOk"></span>
+                        </li>
+
+                        <li><a href="#">UYGULAMALAR</a></li>
+                        <li>
+                            <a href="#"></a>
+                            <ul id="arama">
+                                <li>
+                                    <form action="" method="post" name="aramaform">
+                                        <input type="search" name="kelime" id="kelime" placeholder="Neyi Arıyorsunuz?" value="Neyi Arıyorsunuz?" onkeyup="valid(this, 'special')" onfocus="if (this.value == 'Neyi Arıyorsunuz?') {
+                                                    this.value = '';
+                                        }"
+                                               onblur="if (this.value == '') {
+                                            this.value = 'Neyi Arıyorsunuz?';
+                                        }"
+                                               alt="Site içi Arama Yapın" title="Site İçi Arama Yapın" />
+                                        <a href="" class="ara" onclick="document.forms['aramaform'].submit(); return false;">› </a>
+                                    </form>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div id="slayt">
+                    <img src="~/Content/images/slayt1.png" />
+                </div>
+              </div>
+        </div>
+
+        <!-- Content baslangic -->
+        <div id="content">
+            @RenderBody()
+            <div id="contentic">
+                <div id="ucBolum">
+                    <table class="table table-inverse">
+                        <thead>
+                            <tr>
+                                <th>Ürün Id</th>
+                                <th>Ürün Adı</th>
+                                <th>Fiyat</th>
+                                <th>Stok</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{ List<MvcProject.Models.Products> pList = (List<MvcProject.Models.Products>)ViewData["ProductList"];}
+                            @foreach (var product in pList)
+                            {
+                                <tr>
+                                    <th scope="row">@product.urunId</th>
+                                    <td>@product.urunAdi</td>
+                                    <td>@product.fiyat</td>
+                                    <td>@product.stok</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <div id="sonProjeler">
+
+                    <div id="baslik">
+                        <div id="baslikic">
+                            <strong>Son Ürünler</strong>
+                        </div>
+                        <div id="baslikOrta">
+                        </div>
+                    </div>
+                    <div id="sonIcerik" class="jcarousel">
+                        <ul class="project-carousel project-list">
+                            @{ List<MvcProject.Models.Products> SliderList = (List<MvcProject.Models.Products>)ViewData["ProductList"];}
+                            @foreach (var product in SliderList)
+                            {                             
+                            <li class="entry">
+                                <div id="icerikUst">
+                                    <a class="entry-image lightbox" href="#">
+
+                                        <span class="overlay zoom"></span>
+                                        <img src="~/Content/images/konutProj1.png" />
+                                    </a>
+                                </div>
+                                <div id="icerikAlt">
+                                    <h4 class="entry-title">@product.urunAdi</h4>
+                                    <p>Fiyatı: @product.fiyat TL</p>
+                                    <p>Stok: @product.stok Adet</p>
+                                    <h2>
+                                        <a class="entry-meta" href="#">
+                                            <strong>Devamı</strong>
+                                        </a>
+                                    </h2>
+                                </div>
+                            </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer baslangic -->
+        <div id="footer">
+            <div id="footeric">
+                <div id="footerUst">
+                    <div id="ikon"></div>
+                    <div id="adres">
+                        <span>MVC Project</span>
+                        <p>MVC Street in Visual Studio</p>
+                        <p>Tel: 444 MVC 444</p>
+                        <p>info@mvc.com</p>
+                    </div>
+                    <div id="harita">
+                        <p>Site Haritası</p>
+                        <ul>
+                            <li><a href="#"><strong>› </strong>Anasayfa</a></li>
+                            <li><a href="#"><strong>› </strong>Kurumsal</a></li>
+                            <li><a href="#"><strong>› </strong>Ürünler</a></li>
+                            <li><a href="#"><strong>› </strong>Referanslar</a></li>
+                            <li><a href="#"><strong>› </strong>Teknik Çözümler</a></li>
+                            <li><a href="#"><strong>› </strong>Uygulamalar</a></li>
+                            <li><a href="#"><strong>› </strong>Son Projeler</a></li>
+                        </ul>
+                    </div>
+                    <div id="ulasim">
+                        <p>Hızlı Ulaşım</p>
+                        <ul>
+                            <li><a href="#"><strong>› </strong>Özel Tasarımlar</a></li>
+                            <li><a href="#"><strong>› </strong>Projeniz için teklif alın</a></li>
+                            <li><a href="#"><strong>› </strong>Profesyoneller kulübü</a></li>
+                            <li><a href="#"><strong>› </strong>Site kullanım koşulları</a></li>
+                            <li><a href="#"><strong>› </strong>Gizlilik sözleşmesi</a></li>
+                            <li><a href="#"><strong>› </strong>Ürün Çeşitliliği</a></li>
+                            <li><a href="#"><strong>› </strong>Bülten Çeşitliliği</a></li>
+                        </ul>
+                    </div>
+                    <div id="uretimKapasite">
+                        <p>Üretim ve Kapasite</p>
+                        <ul>
+                            <li><a href="#"><strong>› </strong>Waterjet nedir?</a></li>
+                            <li><a href="#"><strong>› </strong>Nasıl çalışır?</a></li>
+                            <li><a href="#"><strong>› </strong>Neler işleyebilir?</a></li>
+                            <li><a href="#"><strong>› </strong>Tasarımda nelere dikkat edilmeli.</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div id="footerAlt">
+                    <div id="footerAltUst">
+                        <div id="ustSol"></div>
+                        <div id="ustSag"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

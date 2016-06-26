@@ -1,0 +1,105 @@
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\MvcProject.dll.config
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\MvcProject.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\MvcProject.pdb
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Npgsql.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Helpers.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Http.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Razor.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Mono.Security.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Npgsql.pdb
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Helpers.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Http.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.Razor.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\de\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\es\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\fi\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\ja\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\Npgsql.xml
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\fr\Npgsql.resources.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\policy.2.0.Npgsql.dll
+C:\Users\Win8 1\Desktop\MVCPROJECT\MvcProject\MvcProject\bin\policy.2.0.Npgsql.config
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\MvcProject.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\MvcProject.pdb
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Http.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Npgsql.pdb
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Npgsql.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Http.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\de\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\es\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\fi\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\fr\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\ja\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\bin\policy.2.0.Npgsql.config
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+C:\Users\Furkan\Desktop\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\MvcProject.dll.config
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\MvcProject.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\MvcProject.pdb
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\Mono.Security.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Helpers.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Http.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Razor.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Helpers.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Http.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.Razor.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+C:\Users\Win8 1\Desktop\İndirilenler\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
